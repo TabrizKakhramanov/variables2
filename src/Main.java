@@ -3,11 +3,17 @@ public class Main {
     public static void main(String[] args) {
         //1
         byte one =1;
+        System.out.println("Значение переменной one с типом byte равно "+one);
         short two=2;
+        System.out.println("Значение переменной two с типом byte равно "+two);
         int three=3;
+        System.out.println("Значение переменной three с типом byte равно "+three);
         long four=4;
+        System.out.println("Значение переменной four с типом byte равно "+four);
         float five=5f;
+        System.out.println("Значение переменной five с типом byte равно "+five);
         double six=6.0;
+        System.out.println("Значение переменной six с типом byte равно "+six);
 
         //2
         float first=27.12f;
